@@ -22,7 +22,7 @@ void draw() {
 void keyPressed() {
   if (key == 'q') exit();
 }
-//+ void mousePressed() {
+void mousePressed() {
  if () {
  rect(350, 193, 105, 45);
  then()
