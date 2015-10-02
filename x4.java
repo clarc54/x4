@@ -9,7 +9,7 @@ void setup() {
 //Setup Scenes
 void draw() {
   scene1 ();
-  scene2 ();
+  //scene2 ();
 }
 
 //Draw Scenes
@@ -27,6 +27,7 @@ void scene1 () {
   text("Do Not Press", 356, 222);
 }
 
+/*
 void scene2 () {
  mouseClicked() {
  if (rect(350, 193, 105, 45));
@@ -46,7 +47,7 @@ void scene2 () {
   text("System Malfuntion", 350, 250);
   text("Error Error Error", 365, 265);
   }
-  
+ */
 //Handlers
 void keyPressed() {
   if (key == 'q') exit();
