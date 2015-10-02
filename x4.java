@@ -28,23 +28,17 @@ void keyPressed() {
  //if (rect(350, 193, 105, 45));
  //}
  //else
- //(background(255,0,0);
- // fill(0);
-  //text("System Malfuntion", 350, 250);
-  //text("Error Error Error", 365, 265);
-  //Button
-  //fill(0, 255, 0);
-  //rect(350, 193, 105, 45);
-  //fill(0);
-  //text("I told you not to press the button...", 368, 222); ) {
-  //background(255,0,0);
-  //fill(0);
-  //text("System Malfuntion", 350, 250);
-  //text("Error Error Error", 365, 265);
-  //Button
-  //fill(0, 255, 0);
-  //rect(350, 193, 105, 45);
-  //fill(0);
-  //text("I told you not to press the button...", 368, 222);)
-  
+ (background(255,0,0);
+  fill(0);
+  text("System Malfuntion", 350, 250);
+  text("Error Error Error", 365, 265);
+  Button
+  fill(0, 255, 0);
+  rect(350, 193, 105, 45);
+  fill(0);
+  text("I told you not to press the button...", 368, 222); ) {
+  background(255,0,0);
+  fill(0);
+  text("System Malfuntion", 350, 250);
+  text("Error Error Error", 365, 265);
 //}
