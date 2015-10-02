@@ -1,4 +1,4 @@
-//Christopher Clark - Random Color change project
+//Christopher Clark - Button Background Color change project
 //Sept 30, 2015
 
 //Setup
