@@ -46,7 +46,6 @@ void scene2 () {
  mouseClicked()
  if rect(350, 193, 105, 45);
  else background(255,0,0);
- }
  fill(0);
  textSize(15);
   text("System Malfuntion", 350, 250);
