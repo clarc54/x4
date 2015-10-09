@@ -44,8 +44,8 @@ void scene1 () {
 
 void scene2 () {
  mouseClicked()
- if (rect(350, 193, 105, 45));
- else (background(255,0,0);
+ if rect(350, 193, 105, 45);
+ else background(255,0,0);
  }
  fill(0);
  textSize(15);
