@@ -43,23 +43,24 @@ void scene1 () {
 
 
 void scene2 () {
- mouseClicked()
- if rect(350, 193, 105, 45);
- else background(255,0,0);
- fill(0);
- textSize(15);
-  text("System Malfuntion", 350, 250);
-  text("Error Error Error", 365, 265);
-  //Button
-  fill(0, 255, 0);
-  strokeWeight(4);
-  rect(350, 193, 105, 45);
-  fill(0);
-  text("I told you not to press the button...", 368, 222);
-  text("System Malfuntion", 350, 250);
-  text("Error Error Error", 365, 265);
+  //boolean a=true;
+    if (mousePressed(mouseX>=350 & mouseX<=455));
+    else {
+    background(255,0,0);
+    fill(0);
+    textSize(15);
+    text("System Malfuntion", 350, 250);
+    text("Error Error Error", 365, 265);
+    //Button
+    fill(0, 255, 0);
+    strokeWeight(4);
+    rect(350, 193, 105, 45);
+    fill(0);
+    text("I told you not to press the button...", 368, 222);
+    text("System Malfuntion", 350, 250);
+    text("Error Error Error", 365, 265);
   }
- 
+}
 
 //Handlers
 void keyPressed() {
