@@ -10,7 +10,7 @@ void setup() {
 //Setup Scenes
 void draw() {
   if (mousePressed == true) {
-    mouseX>=350 & mouseX<=455 & mouseY>=193 & mouseY<=238)
+    //mouseX>=350 & mouseX<=455 & mouseY>=193 & mouseY<=238)
     background(255,0,0);
     fill(0);
     textSize(15);
